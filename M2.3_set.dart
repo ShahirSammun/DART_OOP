@@ -1,4 +1,4 @@
-main() {
+void main() {
   Set<String> students = {
     'Sammun',
     'Rahat',

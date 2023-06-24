@@ -12,7 +12,7 @@ class Player {
     print('King Kohli');
   }
 }
-main() {
+void main() {
   Player Legend = Player();
   Legend.name = 'Virat Kohli';
   Legend.runs = 25000;

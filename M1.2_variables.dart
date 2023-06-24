@@ -27,7 +27,7 @@ void main() {
 
   Map<int, dynamic> players = {
     1 : 'Rohit',
-    2 : 'Shikhar',
+    2 : 'Ruturaj',
     3 : 'Virat',
     4 : 'Dhoni',
     5 : 'Raina',

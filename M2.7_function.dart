@@ -1,4 +1,4 @@
-void main() {
+main() {
   welcome();
   addition(7, 5);
 }

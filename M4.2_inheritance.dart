@@ -28,7 +28,7 @@ class DC extends BD {
   }
 }
 
-main() {
+void main() {
   AB a = AB();
   print('Call class AB');
   a.classAB();

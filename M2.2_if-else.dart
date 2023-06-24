@@ -1,4 +1,4 @@
-main() {
+void main() {
   int myMarks = 82;
   /// IF-ELSE Condition
   

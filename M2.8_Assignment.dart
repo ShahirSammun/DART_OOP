@@ -32,7 +32,7 @@ else{
 
 }
 }
-void main(){
+main(){
 String Grade=studentgrade("Shahir Sammun",85);
 print("Shahir Sammun's Grade:$Grade");
 }

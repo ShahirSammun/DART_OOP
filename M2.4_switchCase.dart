@@ -1,4 +1,4 @@
-main() {
+void main() {
   int day = 6;
 
   switch (day) {

@@ -18,7 +18,7 @@ class job extends student {
   }
 }
 
-main() {
+void main() {
   student Sammun = teacher();
   student Rahat = job();
 

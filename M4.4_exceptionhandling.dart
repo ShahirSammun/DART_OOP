@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:io';
 
-main() {
+void main() {
   try {
     sum(1, 3);
   } on SocketException {

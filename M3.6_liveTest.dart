@@ -14,7 +14,7 @@ class Person {
   }
 }
 
-main() {
+void main() {
   Person myself = Person("Shahir Sammun", 23, "Amberkhana Sylhet");
   myself.sayHello();
 

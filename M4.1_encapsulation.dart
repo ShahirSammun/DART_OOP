@@ -13,7 +13,7 @@ class restaurant {
   }
 
   void _shopping() {
-    print('Buy materials');
+    print('Buy Raw Materials');
   }
 
   int get restaurantnum => _num;

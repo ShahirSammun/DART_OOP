@@ -20,7 +20,7 @@ class player {
   }
 }
 
-main() {
+void main() {
   player cricketer = player('Virat Kohli', 'Indian');
   cricketer.batting('Opener');
 }

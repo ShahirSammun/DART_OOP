@@ -51,7 +51,7 @@ class CurrentAccount extends Account {
   }
 }
 
-void main() {
+main() {
  
   SavingsAccount savingsAccount = SavingsAccount(2122020001, 10000.0, 0.00);
 

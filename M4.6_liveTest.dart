@@ -15,7 +15,7 @@ class Song extends Media {
   }
 }
 
-main() {
+void main() {
   Media media = Media();
   media.play();
 

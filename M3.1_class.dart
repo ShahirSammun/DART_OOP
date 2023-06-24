@@ -4,7 +4,7 @@ class student {
   int id = 2122020021;
   String birthdate = '30/08/2001';
 }
-main() {
+void main() {
   student Sammun = student();
 
   print(Sammun.name);

@@ -12,7 +12,7 @@ List<int> getOddNumbers(List<int> numbers) {
   return oddNumbers;
 }
 
-void main() {
+main() {
   print('Enter a list of integers (comma-separated):');
   String input = stdin.readLineSync()!;
   

@@ -40,7 +40,7 @@ class Car {
   }
 }
 
-void main() {
+main() {
   Car car1 = Car("Toyota", "Harrier", 2022);
   Car car2 = Car("Bmw", "X7", 2020);
   Car car3 = Car("Audi", "Q7", 2019);

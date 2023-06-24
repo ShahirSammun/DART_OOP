@@ -1,4 +1,4 @@
-main() {
+void main() {
   Map<String, String> user = {
     'FirstName' : 'Shahir',
     'LastName' : 'Sammun',

@@ -1,4 +1,4 @@
-void main() {
+main() {
   Map<String, dynamic> employee = {
     'Id': 2122020021,
     'Name': 'Shahir Sammun',
