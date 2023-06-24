@@ -1,5 +1,5 @@
 class player {
-  String position = 'Right hand';
+  String Batting_Style = 'Right hand';
   String name;
   String nationality;
   static int numberOfplayers = 0;
@@ -9,7 +9,7 @@ class player {
 
   void batting(String position) {
     print(position);
-    print(this.position);
+    print(this.Batting_Style);
     print(this.name);
     print(this.nationality);
     this.playing();

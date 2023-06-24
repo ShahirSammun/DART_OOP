@@ -3,7 +3,7 @@ void main() {
     'Id': 2122020021,
     'Name': 'Shahir Sammun',
     'Age': 24,
-    'Salary': 45000,
+    'Salary': 46000,
     'Gender': 'Male',
   };
 

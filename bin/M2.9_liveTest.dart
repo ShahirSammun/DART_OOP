@@ -3,9 +3,9 @@ import 'dart:io';
 List<int> getOddNumbers(List<int> numbers) {
   List<int> oddNumbers = [];
   
-  for (int number in numbers) {
-    if (number % 2 != 0) {
-      oddNumbers.add(number);
+  for (int num in numbers) {
+    if (num % 2 != 0) {
+      oddNumbers.add(num);
     }
   }
   

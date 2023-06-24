@@ -6,7 +6,7 @@ class Person {
   Person(this.name, this.age, this.address);
 
   void sayHello() {
-    print("Hello, my name is $name.");
+    print("Hello, My name is $name.");
   }
 
   int getAgeInMonths() {

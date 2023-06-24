@@ -1,5 +1,5 @@
 main() {
-  int a = 60;
+  int a = 65;
   int b = 30;
   int addition = a + b;
   int subtraction = a - b;

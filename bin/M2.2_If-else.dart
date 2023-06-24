@@ -1,6 +1,6 @@
 
 main() {
-  int myMarks = 82;
+  int myMarks = 83;
   /// IF-ELSE Condition
   
   if (myMarks > 80) {

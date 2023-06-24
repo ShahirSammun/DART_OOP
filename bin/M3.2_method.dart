@@ -15,7 +15,7 @@ class Player {
 main() {
   Player Legend = Player();
   Legend.name = 'Virat Kohli';
-  Legend.runs = 25000;
+  Legend.runs = 26000;
   print(Legend.name);
   print(Legend.runs);
   Legend.king();

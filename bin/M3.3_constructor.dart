@@ -4,5 +4,5 @@ class student {
   }
 }
 main() {
-  student LU = student();
+  student AB = student();
 }

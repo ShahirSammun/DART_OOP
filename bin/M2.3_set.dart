@@ -4,11 +4,11 @@ main() {
     'Rahat',
     'Kamran',
     'Hasan',
-    'Satil',
+    'Saif',
     'Siam'
   };
   students.add('Rafi');
-  students.remove('Satil');
+  students.remove('Saif');
   students.addAll({'Maruf', 'Rony'});
   students.addAll(['Ratul', 'Hasin']);
 

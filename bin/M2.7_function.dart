@@ -1,12 +1,12 @@
 void main() {
   welcome();
-  addition(7, 5);
+  addition(5, 5);
 }
 
 welcome() {
   print('Hello Sammun');
   print('How are you?');
-  print('your age is: ${20 + 4}');
+  print('Your age is: ${20 + 4}');
 }
 
 addition(int num1, int num2) {

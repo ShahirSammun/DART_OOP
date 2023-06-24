@@ -46,7 +46,7 @@ void main() {
   Car car3 = Car("Audi", "Q7", 2019);
 
   car1.drive(1650.0);
-  car2.drive(4100.0);
+  car2.drive(4200.0);
   car3.drive(3200.0);
 
   print("Car 1: ${car1.getBrand()} ${car1.getModel()} (${car1.getYear()})");
