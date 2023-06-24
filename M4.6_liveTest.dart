@@ -1,6 +1,6 @@
 class Media {
   void play() {
-    print("Playing media...");
+    print("Playing media..");
   }
 }
 

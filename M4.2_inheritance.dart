@@ -30,24 +30,24 @@ class DC extends BD {
 
 main() {
   AB a = AB();
-  print('Calling class A');
+  print('Call class AB');
   a.classAB();
 
   BD b = BD();
   print('');
-  print('Calling class B');
+  print('Call class BD');
   b.classAB();
   b.classBD();
 
   CH c = CH();
   print('');
-  print('Calling class C');
+  print('Call class CH');
   c.classAB();
   c.classCH();
 
   DC d = DC();
   print('');
-  print('Calling class D');
+  print('Call class DC');
   d.classAB();
   d.classBD();
   d.classDC();

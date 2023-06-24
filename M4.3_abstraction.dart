@@ -14,7 +14,7 @@ class teacher extends student {
 class job extends student {
   @override
   void study() {
-    print('I am a Flutter developer and also a student');
+    print('I am a Flutter developer and also i am a student');
   }
 }
 
@@ -26,5 +26,5 @@ main() {
   Rahat.study();
 
   print(Sammun.runtimeType);
-  print(Rahat is  student);
+  print(Rahat is student);
 }

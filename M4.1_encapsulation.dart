@@ -9,7 +9,7 @@ class restaurant {
   }
 
   void _prepareItem(String item) {
-    print('Make $item');
+    print('Making $item');
   }
 
   void _shopping() {

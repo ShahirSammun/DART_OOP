@@ -3,7 +3,7 @@ import 'dart:io';
 
 main() {
   try {
-    sum(1, 2);
+    sum(1, 3);
   } on SocketException {
     print('Socket exception');
   } on TimeoutException {
